@@ -8,8 +8,8 @@ size = 100
 image = np.zeros((size, size, 3), dtype="uint8")
 assert image.shape[0] == image.shape[1]
 
-color1 = [255, 128, 0]
-color2 = [0, 128, 255] 
+color2 = [255, 128, 0]
+color1 = [0, 128, 255] 
 
 for j, t1 in enumerate(np.linspace(0, 1, image.shape[0])):
   for i, t2 in enumerate(np.linspace(0, 1, image.shape[1])):
