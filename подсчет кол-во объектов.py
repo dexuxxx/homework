@@ -6,13 +6,13 @@ import matplotlib.pyplot as plt
 
 img = np.load("ps.npy.txt")
 
-elem = np.asarray([[1,1,0,0,1,1],
+elem = np.array([[1,1,0,0,1,1],
                     [1,1,0,0,1,1],
                     [1,1,1,1,1,1],
                     [1,1,1,1,1,1]
                     ])
 
-sqere = np.asarray([[1,1,1,1,1,1],
+sqere = np.array([[1,1,1,1,1,1],
                     [1,1,1,1,1,1],
                     [1,1,1,1,1,1],
                     [1,1,1,1,1,1]
