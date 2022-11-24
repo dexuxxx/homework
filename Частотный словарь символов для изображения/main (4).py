@@ -59,7 +59,7 @@ def recognize(im_region):
             return 'X'
         else:
             return 'W'
-				# else:
+	# else:
         #     rr, cc = im_region.centroid_local
         #     print(rr / im_region.image.shape[0],
         #     cc / im_region.image.shape[1])
