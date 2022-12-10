@@ -5,7 +5,6 @@ import skimage
 from skimage import filters
 from skimage.measure import label,regionprops
 from skimage.filters import  gaussian
-from skimage.color.colorconv import rgb2gray
 from skimage.filters import threshold_otsu
 
 path = 'images/'
