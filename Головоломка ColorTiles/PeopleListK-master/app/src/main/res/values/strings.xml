@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PeopleListK</string>
+    <string-array name="samplelist">
+        <item>First</item>
+        <item>Second</item>
+    </string-array>
+</resources>
