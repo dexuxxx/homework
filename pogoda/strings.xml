@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AviaTickets</string>
+    <string-array name="citiesOuts">
+        <item>Иркутск</item>
+        <item>Красноярск</item>
+        <item>Новосибирск</item>
+        <item>Улан-Удэ</item>
+    </string-array>
+    <string-array name="citiesIn">
+        <item>Мурманск</item>
+        <item>Санкт-Петербург</item>
+        <item>Москва</item>
+        <item>Владивосток</item>
+        <item>Слюдянка</item>
+        <item>Дальнегорск</item>
+    </string-array>
+</resources>
