@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">spisok2</string>
+    <string-array name="samplelist">
+        <item>Игорь</item>
+        <item>Артем</item>
+        <item>Антон</item>
+        <item>Лиза</item>
+        <item>Дарья</item>
+        <item>Яна</item>
+        <item>Клара</item>
+    </string-array>
+    <string-array name="peopleSurname">
+        <item>Иванов</item>
+        <item>Петров</item>
+        <item>Шишкин</item>
+        <item>Ваймакина</item>
+        <item>Доброва</item>
+        <item>Цицкина</item>
+        <item>Заведова</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
